@@ -1,0 +1,35 @@
+
+h1 + p {
+    color: rgb(9, 9, 24);
+  }
+
+  div + p {
+    color: black;
+  }
+  .p2 {
+    color:rgb(26, 15, 15);
+  }
+  li {
+    display: inline;
+    padding: 50px;
+    
+  }
+  h1 { 
+    text-align: center;
+  }  
+  a{ 
+    text-decoration:  none;
+  } 
+  
+  .myform { 
+    border: 2px  solid black
+
+  }  
+  img{
+    width: 150px;
+    height: 150px;
+  }
+  #project{
+    display:flex;
+    padding-top: 50px;
+  }
